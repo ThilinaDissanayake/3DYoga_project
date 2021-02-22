@@ -1,0 +1,15 @@
+C:\Users\thili\source\repos\3DYoga\3DYoga\bin\Debug\3DYoga.exe.config
+C:\Users\thili\source\repos\3DYoga\3DYoga\bin\Debug\3DYoga.exe
+C:\Users\thili\source\repos\3DYoga\3DYoga\bin\Debug\3DYoga.pdb
+C:\Users\thili\source\repos\3DYoga\3DYoga\bin\Debug\Interop.WMPLib.dll
+C:\Users\thili\source\repos\3DYoga\3DYoga\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\3DYoga.csprojAssemblyReference.cache
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\Interop.WMPLib.dll
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\3DYoga.csproj.ResolveComReference.cache
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\_3DYoga.Form1.resources
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\_3DYoga.Properties.Resources.resources
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\3DYoga.csproj.GenerateResource.cache
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\3DYoga.csproj.CoreCompileInputs.cache
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\3DYoga.exe
+C:\Users\thili\source\repos\3DYoga\3DYoga\obj\Debug\3DYoga.pdb

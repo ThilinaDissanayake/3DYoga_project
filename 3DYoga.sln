@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DYoga", "3DYoga\3DYoga.csproj", "{BB2DBBA2-332F-4BC4-B11C-DB5043CE52F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2DBBA2-332F-4BC4-B11C-DB5043CE52F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2DBBA2-332F-4BC4-B11C-DB5043CE52F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2DBBA2-332F-4BC4-B11C-DB5043CE52F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2DBBA2-332F-4BC4-B11C-DB5043CE52F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C224E7D-9077-4111-BB50-78EF2C06995D}
+	EndGlobalSection
+EndGlobal
